@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "09B9AE21-2F63-4F20-9BEB-E31929BC10BD"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33AD24C9-7968-4286-995A-2D91A65C589F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WA07_Xu_9492/NotesPage/Controller/NotesPageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "33AD24C9-7968-4286-995A-2D91A65C589F - c8130742d099530e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WA07_Xu_9492.NotesPageViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "WA07_Xu_9492"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xuqingyun/Desktop/CS5520/WA07_Xu_9492/WA07_Xu_9492/NotesPage/Controller/NotesPageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "33AD24C9-7968-4286-995A-2D91A65C589F - c8130742d099530e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WA07_Xu_9492.NotesPageViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "WA07_Xu_9492"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xuqingyun/Desktop/CS5520/WA07_Xu_9492/WA07_Xu_9492/NotesPage/Controller/NotesPageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "33AD24C9-7968-4286-995A-2D91A65C589F - c8130742d09952ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WA07_Xu_9492.NotesPageViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "WA07_Xu_9492"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xuqingyun/Desktop/CS5520/WA07_Xu_9492/WA07_Xu_9492/NotesPage/Controller/NotesPageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41F9C3EA-2971-475A-B8B5-696BCC295A7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WA07_Xu_9492/RegisterPage/RegisterPageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "pushOutNotesPage(animated:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

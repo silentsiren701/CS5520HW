@@ -1,0 +1,6 @@
+framework module Pods_WA07_Xu_9492 {
+  umbrella header "Pods-WA07_Xu_9492-umbrella.h"
+
+  export *
+  module * { export * }
+}
